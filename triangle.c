@@ -17,11 +17,11 @@ int main() {
     }
     else if (b+c>=a)
     {
-        printf("Yes\n");
+        printf("Yes");
     }
     else
     {
-        printf("No\n");
-    }    
+        printf("No");
+    }   
     return 0;
 }
