@@ -51,7 +51,7 @@ for (int i=0 ;i<r; i++)
 
 }
 if (count==0)
-  printf("Element is not found");
+  printf("Element not found");
 
     
  return 0;
