@@ -1,4 +1,4 @@
-
+/*Write a C Program to display the product of two 2D arrays. Given values for both the 2D Arrays.*/
 
 #include <stdio.h>
 #include <string.h>
